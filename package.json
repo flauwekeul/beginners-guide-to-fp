@@ -6,9 +6,8 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.28.2",
-    "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/cli": "^0.28.7",
+    "@slidev/theme-seriph": "^0.21.1"
   },
   "name": "beginners-guide-to-fp"
 }
