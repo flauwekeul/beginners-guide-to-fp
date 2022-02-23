@@ -80,6 +80,8 @@ layout: center
 * 15 years experience
 * OOP background
 * FP experts mean well, but they often use too much jargon or make it seem too easy
+
+All examples are in JS or TS
 -->
 
 ---
@@ -1005,3 +1007,11 @@ Option-specific functions "know" how to handle None and Some containers
 
 <h2>Videos</h2>
 <p>Anything from <a href="https://www.youtube.com/results?search_query=scott+wlaschin" target="_blank">Scott Wlaschin</a>.</p>
+
+---
+layout: center
+---
+
+See this presentation on <a href="https://abbekeultjes.nl/beginners-guide-to-fp/">https://abbekeultjes.nl/beginners-guide-to-fp</a>
+
+<img src="/qrcode_abbekeultjes.nl.png" class="mx-auto mt-12 h-60">
